@@ -127,6 +127,8 @@ if ($response != null && $response->success)
     </form>
     </div>
 </div>
+
+
 	<!-- END HTML FORM -->
     <script type="text/javascript"
         src="https://www.google.com/recaptcha/api.js?hl=en">

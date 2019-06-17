@@ -31,7 +31,7 @@ include 'includes/header.php';
     
  
     
-    <body>
+
 
     <div class="slider">
     <div><img src="https://themasonryseattle.com/uploads/1/1/5/7/115751665/18722704-803908119776337-7492365380363485184-n_orig.jpg" alt="beer">
@@ -40,11 +40,11 @@ include 'includes/header.php';
     </div>
     <div><img src="https://themasonryseattle.com/uploads/1/1/5/7/115751665/12783853-697738403700958-652142095-n_orig.jpg" alt="wine">
     </div>
-    <div><img src="https://themasonryseattle.com/uploads/1/1/5/7/115751665/12479290-1007454855987433-1834977528-n_orig.jpg" alt"food">
+    <div><img src="https://themasonryseattle.com/uploads/1/1/5/7/115751665/12479290-1007454855987433-1834977528-n_orig.jpg" alt="dinner">
     </div> 
 </div>
-</body>
-    
+        
+   
     
     
     
